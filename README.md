@@ -1,2 +1,2 @@
-# Jest-React
-Use of Jest unit testing in a React application
+# platzi-store
+Curso de Pruebas unitarias con Jest
